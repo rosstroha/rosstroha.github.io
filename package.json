@@ -1,0 +1,25 @@
+{
+  "name": "rosstroha.github.io",
+  "version": "1.0.0",
+  "description": "personal webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosstroha/rosstroha.github.io.git"
+  },
+  "keywords": [
+    "rosstroha",
+    "resume",
+    "ross",
+    "troha"
+  ],
+  "author": "Ross Troha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosstroha/rosstroha.github.io/issues"
+  },
+  "homepage": "https://github.com/rosstroha/rosstroha.github.io#readme"
+}
